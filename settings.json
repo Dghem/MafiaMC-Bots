@@ -1,0 +1,88 @@
+{
+  "bots": [
+    {
+      "name": "RedPvP Bot",
+      "bot-account": {
+        "username": "Support",
+        "password": "",
+        "type": "offline"
+      },
+      "server": {
+        "ip": "redpvp.mafiamc.site",
+        "port": 39263,
+        "version": "1.8.8"
+      },
+      "movement": {
+        "circle-walk": {
+          "enabled": true,
+          "radius": 4,
+          "speed": 200
+        },
+        "look-around": {
+          "enabled": true,
+          "interval": 6000
+        },
+        "random-jump": {
+          "enabled": true,
+          "interval": 100000
+        }
+      }
+    },
+    {
+      "name": "SkyPvP Bot",
+      "bot-account": {
+        "username": "Support",
+        "password": "",
+        "type": "offline"
+      },
+      "server": {
+        "ip": "skypvp.mafiamc.site",
+        "port": 25677,
+        "version": "1.8.8"
+      },
+      "movement": {
+        "circle-walk": {
+          "enabled": true,
+          "radius": 4,
+          "speed": 200
+        },
+        "look-around": {
+          "enabled": true,
+          "interval": 6000
+        },
+        "random-jump": {
+          "enabled": true,
+          "interval": 100000
+        }
+      }
+    },
+    {
+      "name": "Duels Bot",
+      "bot-account": {
+        "username": "Support",
+        "password": "",
+        "type": "offline"
+      },
+      "server": {
+        "ip": "duels.mafiamc.site",
+        "port": 35890,
+        "version": "1.8.8"
+      },
+      "movement": {
+        "circle-walk": {
+          "enabled": true,
+          "radius": 4,
+          "speed": 200
+        },
+        "look-around": {
+          "enabled": true,
+          "interval": 6000
+        },
+        "random-jump": {
+          "enabled": true,
+          "interval": 100000
+        }
+      }
+    }
+  ]
+}
