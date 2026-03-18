@@ -8,7 +8,7 @@
         "type": "offline"
       },
       "server": {
-        "ip": "MafiaMCred.aternos.me",
+        "ip": "redpvp.mafiamc.site",
         "port": 39263,
         "version": "1.8.8"
       },
@@ -36,7 +36,7 @@
         "type": "offline"
       },
       "server": {
-        "ip": "MafiaMCsky.aternos.me",
+        "ip": "skypvp.mafiamc.site",
         "port": 25677,
         "version": "1.8.8"
       },
@@ -64,7 +64,7 @@
         "type": "offline"
       },
       "server": {
-        "ip": "MafiaMCdue.aternos.me",
+        "ip": "duels.mafiamc.site",
         "port": 35890,
         "version": "1.8.8"
       },
